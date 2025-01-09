@@ -51,6 +51,6 @@ This project is a React web application that implements user authentication feat
 
 ### Installation
 - git clone repository-url
-- cd <project-directory>
+- cd project-directory
 - npm install
 - npm run dev
